@@ -1,6 +1,6 @@
 terraform {
 
-  /*
+  /*dim out cloud block
 cloud {
     organization = "alienCompany"
     workspaces {
